@@ -1,0 +1,2 @@
+# braille2text_chinese
+基于人工智能的汉语与中国盲文互译
