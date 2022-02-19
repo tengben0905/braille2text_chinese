@@ -1,6 +1,6 @@
 <h1 align="center">braille2text_chinese</h1>
 
-<p align="center">中文与中国盲文互译</p>
+<p align="center">汉语与中国盲文互译</p>
 
 ## Overview
 
