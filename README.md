@@ -1,4 +1,4 @@
-<h1 align="center">chinese_braille2text</h1>
+<h1 align="center">braille2text_chinese</h1>
 
 <p align="center">中文与中国盲文互译</p>
 
@@ -65,4 +65,4 @@ If you have any suggestions, feel free to pull a request. Also you can mail to:
 
 
 ##  Licenses
-chinese_braille2text is available under Apache Licenses 2.0.
+braille2text_chinese is available under Apache Licenses 2.0.
